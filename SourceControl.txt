@@ -1,0 +1,34 @@
+Mehki Cannon
+June 1, 2022
+1.1 Source Control
+
+https://github.com/OpenRA/OpenRA.git
+
+This repo was for a game engine. As a game development student, I thought it'd be good 
+to find something that I could learn from. Since game engines are in my future, I looked
+for this. This particular game engine repo happens to offer mapping tutorials and modding
+guides as well.
+
+
+https://github.com/isl-org/OpenBot.git
+
+This repo incorporates aspects of robotics. Its of a robot mafe from a smart phone.
+There's apparently a whole community of others who gave it a try, aloowing for a greater
+pool of helpful minds. 
+
+
+https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated.git
+
+This one is for a Tic-Tac-Toe game. In PG2 I made a BlackJack game that had a randomizer
+as the offline opponent. So I think it'd be fun to try and implement the same idea into
+another well-known game. This would also be a cool way to test my skill.
+
+https://github.com/photonstorm/phaser.git
+
+This is for a 2D platformer game. In this month's portfolio class, I decided that I 
+wanted to make a 2D platformer with my team. This repo could add to idea of the game we
+want to construct. As well as guide us on how one could make one.
+
+https://github.com/github/gitignore.git
+
+This is a repo of a ton of gitignore templates.
